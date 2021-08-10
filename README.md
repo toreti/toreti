@@ -1,13 +1,18 @@
-# Felipe Torretto
+# 👋 Hi, my name is Felipe 
+
+### I'm a Senior Software Developer
+
+- Passionate about solving problems and learning
+- With knowledge in automated tests and Domain Driven Design
+- More than 10 years developing in PHP and JS
 
 [![Linkedin](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-torretto/)](https://www.linkedin.com/in/felipe-torretto/)
 [![Mail Me!](https://img.shields.io/badge/-Contact-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:toreti@gmail.com)](mailto:toreti@gmail.com)
 
-### Senior Software Developer @ FEBACAPITAL | Cobre Fácil
 
 <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="150" height="150" />
 
-## 👨🏻‍💻 A little about me:
+## 👨🏻‍💻 A little more about me:
 
 ```
 <?php
@@ -27,4 +32,4 @@ class FelipeTorretto extends Dev implements Father, SelfLearner
 }
 ```
 - 👷🏻 I’m currently working on PHP projects
-- 🌱 I’m currently learning DevOps and Solidity
+- 🌱 And learning DevOps and Solidity
