@@ -31,5 +31,11 @@ class FelipeTorretto extends Dev implements Father, SelfLearner
     ];
 }
 ```
+
+ <div>
+  <a href="https://github.com/toreti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toreti&layout=compact&langs_count=7&theme=vue-dark"/>
+</div>
+
 - 👷🏻 I’m currently working on PHP projects
 - 🌱 And learning DevOps and Solidity
